@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = py.com.choco.config.\
+    CassandraTestContainersSpringContextCustomizerFactory,py.com.choco.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
